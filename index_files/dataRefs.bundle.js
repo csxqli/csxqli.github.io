@@ -87,17 +87,17 @@ return /******/ (function(modules) { // webpackBootstrap
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "https://static.parastorage.com/services/wix-ui-santa/1.999.0/";
+/******/ 	__webpack_require__.p = "https://static.parastorage.com/services/wix-ui-santa/0ac35775a71310a4e0484c05ec33544860e4ce8c/";
 /******/
 /******/
 /******/ 	__webpack_require__.p = typeof window !== 'undefined' && window.__STATICS_BASE_URL__ || __webpack_require__.p;
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 1236);
+/******/ 	return __webpack_require__(__webpack_require__.s = 1127);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ 1236:
+/***/ 1127:
 /*!*********************!*\
   !*** ./dataRefs.js ***!
   \*********************/
@@ -113,7 +113,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _dataRefs = __webpack_require__(/*! ./dataRefs.json */ 1237);
+var _dataRefs = __webpack_require__(/*! ./dataRefs.json */ 1128);
 
 var _dataRefs2 = _interopRequireDefault(_dataRefs);
 
@@ -123,7 +123,7 @@ exports.default = _dataRefs2.default;
 
 /***/ }),
 
-/***/ 1237:
+/***/ 1128:
 /*!***********************!*\
   !*** ./dataRefs.json ***!
   \***********************/
@@ -132,7 +132,7 @@ exports.default = _dataRefs2.default;
 /*! ModuleConcatenation bailout: Module is not an ECMAScript module */
 /***/ (function(module) {
 
-module.exports = {"Data":{"ImageX":{"link":false},"MusicPlayerData":{"audioRef":false,"coverRef":false},"SelectionTag":{"link":false},"SelectionTagsList":{"options":false},"StylableButton":{"link":false},"VideoPlayer":{"videoRef":false,"logoRef":false}},"Design":{},"Properties":{}};
+module.exports = {"Data":{"ImageX":{"link":false},"MusicPlayerData":{"audioRef":false,"coverRef":false},"SelectionTag":{"link":false},"SelectionTagsList":{"options":false},"StylableButton":{"link":false,"a11y":false},"VideoPlayer":{"videoRef":false,"logoRef":false}},"Design":{},"Properties":{}};
 
 /***/ })
 

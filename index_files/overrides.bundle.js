@@ -87,7 +87,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "https://static.parastorage.com/services/wix-ui-santa/1.999.0/";
+/******/ 	__webpack_require__.p = "https://static.parastorage.com/services/wix-ui-santa/0ac35775a71310a4e0484c05ec33544860e4ce8c/";
 /******/
 /******/
 /******/ 	__webpack_require__.p = typeof window !== 'undefined' && window.__STATICS_BASE_URL__ || __webpack_require__.p;
@@ -97,7 +97,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /************************************************************************/
 /******/ ({
 
-/***/ 26:
+/***/ 27:
 /*!**************************************************!*\
   !*** ./components/Dropdown/componentOverride.js ***!
   \**************************************************/
@@ -193,7 +193,7 @@ module.exports = {
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./Dropdown/componentOverride.js": 26,
+	"./Dropdown/componentOverride.js": 27,
 	"./FileUploaderNew/componentOverride.js": 30
 };
 
